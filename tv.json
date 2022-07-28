@@ -1,7 +1,7 @@
 ﻿{
 "wallpaper": "http://css.lc/api.php",
 "sites": [
-{"key":""            ,"name":"点击首页切换数据源，祝您观影愉快！","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
+{"key":""            ,"name":"点击首页切换数据源，祝您观影愉快！(定期维护数据源)","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77"            ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_Kuaikan"       ,"name":"🐞快看影视","type":3,"api":"csp_Kuaikan","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_ikan"          ,"name":"🐞爱看影视","type":3,"api":"csp_IKan","searchable":1,"quickSearch":1,"filterable":1},
