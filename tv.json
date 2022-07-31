@@ -1,7 +1,7 @@
 {
 "spider":"https://shuyuan.miaogongzi.net/shuyuan/1659312768.txt",
 "wallpaper":"http://css.lc/api.php",
-"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vcWlhb2ppL2phci9yYXcvYnJhbmNoL21haW4vemIudHh0"]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20vbGl1Y24vYm94L3Jhdy9icmFuY2gvbWFpbi9saXZlL20yLnR4dA=="]}]}],
 "sites":[
 {"key":"" ,"name":"点击首页切换数据源，祝您观影愉快！(定期维护数据源)","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
 {"key":"csp_77"            ,"name":"酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
