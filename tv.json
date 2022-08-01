@@ -1,5 +1,5 @@
 {
-	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659419637.txt",
+	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659401063.txt",
 	"wallpaper": "http://css.lc/api.php",
 	"lives": [{
 		"group": "redirect",
@@ -8,8 +8,15 @@
 			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY1OTMyMjQyNS50eHQ="]
 		}]
 	}],
-	"sites": [{"key":"" ,"name":"点击首页切换数据源，祝您观影愉快！(定期维护数据源)","type":3,"api":"","searchable":1,"quickSearch":1,"filterable":1},
-		{
+	"sites": [{
+		"key":"" ,
+		"name":"点击首页切换数据源，祝您观影愉快！(定期维护数据源)",
+		"type":3,
+		"api":"",
+		"searchable":1,
+		"quickSearch":1,
+		"filterable":1
+	}, {
 		"key": "csp_77",
 		"name": "酷云七七",
 		"type": 3,
