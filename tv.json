@@ -651,7 +651,7 @@
 	}, {
 		"name":"全民解析",
 		"type":1,
-		"url":"http://api.wpsseo.cn/?v="
+		"url":"http://api.wpsseo.cn/?url="
 	}, {
 		"name": "盘古",
 		"type": 0,
