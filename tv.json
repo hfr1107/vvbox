@@ -1,5 +1,6 @@
 {
-	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659792259.txt",
+	//"spider": "https://shuyuan.miaogongzi.net/shuyuan/1659792259.txt",
+	"spider": "https://gitea.com/xyyx/TVBox/raw/branch/main/0805.txt",
 	"wallpaper": "http://css.lc/api.php",
 	"lives": [{
 		"group": "redirect",
