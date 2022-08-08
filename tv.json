@@ -399,7 +399,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXB2/六度TV.json"
 	}, {
 		"key": "csp_xpath_zxzj2",
-		"name": "在线之家(XPF)",
+		"name": " 🔥在线之家(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -408,7 +408,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/zxzj2.json"
 	}, {
 		"key": "csp_xpath_libv",
-		"name": "Libvio(XPF)",
+		"name": " 🔥Libvio(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -417,7 +417,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/libv.json"
 	}, {
 		"key": "csp_xpath_cokemv",
-		"name": "Cokemv(XPF)",
+		"name": " 🔥Cokemv(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -426,7 +426,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/cokemv.json"
 	}, {
 		"key": "csp_xpath_ddg",
-		"name": "达达龟(XPF)",
+		"name": " 🔥达达龟(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -435,7 +435,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dadagui.json"
 	}, {
 		"key": "csp_xpath_jbb",
-		"name": "剧白白(XPF)",
+		"name": " 🔥剧白白(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -444,7 +444,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/jubaibai.json"
 	}, {
 		"key": "csp_xpath_Jumi",
-		"name": "剧迷TV(XPF)",
+		"name": " 🔥剧迷TV(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -453,7 +453,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/Jumi.json"
 	}, {
 		"key": "csp_xpath_lranc",
-		"name": "天天影视(XPF)",
+		"name": " 🔥天天影视(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -462,7 +462,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/lranc.json"
 	}, {
 		"key": "csp_xpath_yanetflix",
-		"name": "鸭奈飞(XPF)",
+		"name": " 🔥鸭奈飞(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -471,7 +471,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/yanet.json"
 	}, {
 		"key": "csp_xpath_xxys520",
-		"name": "小熊影视(XPF)",
+		"name": " 🔥小熊影视(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -480,7 +480,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/xxys520.json"
 	}, {
 		"key": "csp_xpath_348z",
-		"name": "348电影(XPF)",
+		"name": " 🔥348电影(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -489,7 +489,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/348z.json"
 	}, {
 		"key": "csp_xpath_meiju56",
-		"name": "美剧网(XPF)",
+		"name": " 🔥美剧网(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -498,7 +498,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/meiju562.json"
 	}, {
 		"key": "csp_xpath_Gimy",
-		"name": "GIMY影视(XPF)",
+		"name": " 🔥GIMY影视(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 0,
@@ -507,7 +507,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/Gimy.json"
 	}, {
 		"key": "csp_xpath_Gimy2",
-		"name": "GimyTV(XPF)",
+		"name": " 🔥GimyTV(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 0,
@@ -516,7 +516,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/Gimy2.json"
 	}, {
 		"key": "csp_xpath_naifeiorg",
-		"name": "奈飞中文(XPF)",
+		"name": " 🔥奈飞中文(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -525,7 +525,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/naifeiorg.json"
 	}, {
 		"key": "csp_xpath_dmw",
-		"name": "动漫岛(XPF)",
+		"name": " 🔥动漫岛(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -534,7 +534,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dmw.json"
 	}, {
 		"key": "csp_xpath_6d",
-		"name": "六度TV(XPF)",
+		"name": " 🔥六度TV(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -543,7 +543,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/6d.json"
 	}, {
 		"key": "csp_xpath_dandanzan10",
-		"name": "蛋蛋赞(电影)(XPF)",
+		"name": " 🔥蛋蛋赞(电影)(XPF)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 0,
@@ -552,7 +552,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dandanzan10.json"
 	}, {
 		"key": "csp_xpath_4kpianku",
-		"name": "4k片库网(XPF)",
+		"name": " 🔥4k片库网(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -561,7 +561,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/4kpianku.json"
 	}, {
 		"key": "csp_xpath_xiangdao",
-		"name": "农民影视(XPF)",
+		"name": " 🔥农民影视(XPF)",
 		"type": 3,
 		"api": "csp_XPathMacFilter",
 		"searchable": 1,
@@ -570,7 +570,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/xiangdao.json"
 	}, {
 		"key": "csp_xpath_czspp",
-		"name": "厂长资源(XP)",
+		"name": " 🔥厂长资源(XP)",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 1,
@@ -579,7 +579,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/czspp.json"
 	}, {
 		"key": "csp_xpath_age",
-		"name": "AGE动漫(XP)",
+		"name": " 🔥AGE动漫(XP)",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 1,
@@ -588,7 +588,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/agefans.json"
 	}, {
 		"key": "csp_xpath_dm84",
-		"name": "动漫巴士(XP)",
+		"name": " 🔥动漫巴士(XP)",
 		"type": 3,
 		"api": "csp_XPathFilter",
 		"searchable": 1,
@@ -597,7 +597,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/dm84.json"
 	}, {
 		"key": "csp_xpath_17skr",
-		"name": "路漫漫动漫(XP)",
+		"name": " 🔥路漫漫动漫(XP)",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 1,
@@ -606,7 +606,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/17skr.json"
 	}, {
 		"key": "csp_xpath_bttwoo",
-		"name": "两个BT(XP)",
+		"name": " 🔥两个BT(XP)",
 		"type": 3,
 		"api": "csp_XPath",
 		"searchable": 0,
@@ -615,7 +615,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/bttwoo.json"
 	}, {
 		"key": "csp_xpath_wanmeikk",
-		"name": "完美看看(XP)",
+		"name": " 🔥完美看看(XP)",
 		"type": 3,
 		"api": "csp_XPathMac",
 		"searchable": 1,
@@ -624,7 +624,7 @@
 		"ext": "https://freed.yuanhsing.cf/TVBox/MaooXP/wanmeikk.json"
 	}, {
 		"key": "csp_xpath_lezhutv",
-		"name": "乐猪TV(XPMac)",
+		"name": " 🔥乐猪TV(XPMac)",
 		"type": 3,
 		"api": "csp_XPathMac",
 		"searchable": 1,
