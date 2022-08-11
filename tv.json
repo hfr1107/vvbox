@@ -1,11 +1,11 @@
 {
-	"spider": "https://gitea.com/xyyx/TVBox/raw/branch/main/0808.txt",
+	"spider": "http://52bsj.vip:81/api/v3/file/get/30424/0811.txt?sign=94SuxFCWphoiujGrNzDn6j_HlAKXcZJqQ0uMxy-f-g0%3D%3A0",
 	"wallpaper": "http://css.lc/api.php",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlYS5jb20veHl5eC9UVkJveC9yYXcvYnJhbmNoL21haW4vemIudHh0"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovLzUyYnNqLnZpcDo4MS9hcGkvdjMvZmlsZS9nZXQvMzA0MjUvemIudHh0P3NpZ249aUhrcU14c1Z0Y2dXVWswcEVqb3NCcnBVUW5XUjJqVDhRb1k5bEEzZnNmayUzRCUzQTA="]
 		}]
 	}],
 	"sites": [{
