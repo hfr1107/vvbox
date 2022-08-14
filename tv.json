@@ -1,11 +1,11 @@
 {
-	"spider": "https://www.cloudewl.cn/down.php/06ed1a662fc19e4ea22f60f02770f4b6.txt&suhua8233",
+	"spider": "https://download.kstore.space/download/3008/0813.txt",
 	"wallpaper": "http://css.lc/api.php",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly93d3cuY2xvdWRld2wuY24vZG93bi5waHAvNTEyZTE3OGM2YWRiOWIxYTg1M2U4ZGUzZjY0Yzg2MjYudHh0Jnh5eXg4ODg4"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9kb3dubG9hZC5rc3RvcmUuc3BhY2UvZG93bmxvYWQvMzAwOC96Yi50eHQ="]
 		}]
 	}],
 	"sites": [{
@@ -32,15 +32,6 @@
 		"filterable": 1,
 		"quickSearch": 1,
 		"searchable": 1,
-		"ext": ""
-	}, {
-		"key": "293视频",
-		"name": "🔥293视频",
-		"type": 3,
-		"api": "csp_SP293",
-		"searchable": 1,
-		"quickSearch": 1,
-		"filterable": 1,
 		"ext": ""
 	}, {
 		"key": "csp_CZSPP",
