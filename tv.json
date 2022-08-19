@@ -1,12 +1,12 @@
 
 {
-	"spider": "https://shuyuan.miaogongzi.net/shuyuan/1660927492.txt",
+	"spider": "https://gitee.com/htlth/TVBox/raw/master/0820.txt",
 	"wallpaper": "https://www.dmoe.cc/random.php",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9zaHV5dWFuLm1pYW9nb25nemkubmV0L3NodXl1YW4vMTY2MDk4MTYyNS50eHQ="]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vaHRsdGgvVFZCb3gvcmF3L21hc3Rlci8wODIwemIudHh0"]
 		}]
 	}],
 	"sites": [
