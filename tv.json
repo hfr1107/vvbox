@@ -1,12 +1,16 @@
-
+//无公众号，无公众号，无公众号,不引流，我是纯小白~啥也不懂，只是为小白提供一个方便，接口缝合自巧技大佬/唐三大佬/俊于大佬/以及各位隐姓埋名的大佬,大哥随便扒，高抬贵嘴，记得改链接~
+/**----以下为大佬们的相关信息---**/
+//巧技大佬微信公众号：巧技  qq频道：https://qun.qq.com/qqweb/qunpro/share?_wv=3&_wwv=128&appChannel=share&inviteCode=uDcBv&businessType=9&from=246610&biz=ka
+//唐长老：https://t.me/ChuiShuiGe
+//俊哥：未知
 {
-	"spider": "https://gitee.com/htlth/TVBox/raw/master/0820.txt",
-	"wallpaper": "https://www.dmoe.cc/random.php",
+	"spider": "http://刚刚.live/jar/",
+	"wallpaper": "http://刚刚.live/图",
 	"lives": [{
 		"group": "redirect",
 		"channels": [{
 			"name": "live",
-			"urls": ["proxy://do=live&type=txt&ext=aHR0cHM6Ly9naXRlZS5jb20vaHRsdGgvVFZCb3gvcmF3L21hc3Rlci8wODIwemIudHh0"]
+			"urls": ["proxy://do=live&type=txt&ext=aHR0cDovL3huLS00YnJhLmxpdmUvamFyL2xpdmUudHh0"]
 		}]
 	}],
 	"sites": [
