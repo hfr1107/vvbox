@@ -1,5 +1,5 @@
 {
-  "spider": "https://gitee.com/htlth/jar2/raw/master/0822.jar;md5;BD05DF7AFF8664BCDB7097B7D04A7FA9",
+  "spider": "https://gitcode.net/qq_26898231/TVBox/-/blob/main/jar/0822.jar;md5;BD05DF7AFF8664BCDB7097B7D04A7FA9",
   "wallpaper": "http://www.kf666888.cn/api/tvbox/img",
   "lives": [
     {
@@ -288,7 +288,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/xuexi.txt"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/xuexi.txt"
     },
     {
       "key": "csp_BBB",
@@ -298,7 +298,7 @@
       "searchable": 1,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
     },
     {
       "key": "演唱会",
@@ -308,7 +308,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%BC%94%E5%94%B1%E4%BC%9A.json"
     },
     {
       "key": "歌曲",
@@ -318,7 +318,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E6%AD%8C%E6%9B%B2.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%AD%8C%E6%9B%B2.json"
     },
     {
       "key": "戏曲",
@@ -328,7 +328,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E6%88%8F%E6%9B%B2.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%88%8F%E6%9B%B2.json"
     },
     {
       "key": "csp_xpath_yinfans",
@@ -338,7 +338,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%9F%B3%E8%8C%83%E4%B8%9D.json"
     },
     {
       "key": "bdys",
@@ -348,8 +348,8 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E7%A3%81%E5%8A%9B.json",
-      "jar": "https://gitee.com/htlth/jar2/raw/master/cili.jar"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%A3%81%E5%8A%9B.json",
+      "jar": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/jar/cili.jar"
     },
     {
       "key": "AliPS",
@@ -418,7 +418,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E8%99%8E%E7%89%99.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%99%8E%E7%89%99.json"
     },
     {
       "key": "csp_biubiu_斗鱼",
@@ -428,7 +428,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E6%96%97%E9%B1%BC.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%96%97%E9%B1%BC.json"
     },
     {
       "key": "csp_xpath_kuqimv",
@@ -438,7 +438,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E7%BB%8F%E5%85%B8MV.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%BB%8F%E5%85%B8MV.json"
     },
     {
       "key": "360_spider",
@@ -550,7 +550,7 @@
       "searchable": 0,
       "quickSearch": 0,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
     },
     {
       "key": "csp_biubiu_555电影",
@@ -560,7 +560,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
     },
     {
       "key": "csp_xp_jLgyy",
@@ -570,7 +570,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%93%9D%E5%85%89%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "csp_xpath_dianyingn",
@@ -580,7 +580,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E7%94%B5%E5%BD%B1%E7%89%9B.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%94%B5%E5%BD%B1%E7%89%9B.json"
     },
     {
       "key": "csp_biubiu_骚火电影",
@@ -590,7 +590,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%AA%9A%E7%81%AB%E7%94%B5%E5%BD%B1.json"
     },
     {
       "key": "csp_biubiu_影视工厂",
@@ -600,7 +600,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%BD%B1%E8%A7%86%E5%B7%A5%E5%8E%82.json"
     },
     {
       "key": "csp_biubiu_真不卡cerrd",
@@ -610,7 +610,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E7%9C%9F%E4%B8%8D%E5%8D%A1.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%9C%9F%E4%B8%8D%E5%8D%A1.json"
     },
     {
       "key": "csp_biubiu_特狗影视",
@@ -620,7 +620,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%89%B9%E7%8B%97%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_biubiu_蓝莓影视",
@@ -630,7 +630,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%93%9D%E8%8E%93%E5%BD%B1%E8%A7%86.json"
     },
     {
       "key": "csp_AppYsV2",
@@ -650,7 +650,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%A5%87%E4%BC%98%E5%BD%B1%E9%99%A2.json"
     },
     {
       "key": "csp_biubiu_yekong",
@@ -660,7 +660,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%A4%9C%E7%A9%BA%E9%AB%98%E6%B8%85.json"
     },
     {
       "key": "csp_biubiu_风车动漫",
@@ -670,7 +670,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E9%A3%8E%E8%BD%A6%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_biubiu_森屋新番",
@@ -680,7 +680,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E6%A3%AE%E5%B1%8B%E6%96%B0%E7%95%AA.json"
     },
     {
       "key": "csp_xpath___动漫巴士",
@@ -690,7 +690,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%8A%A8%E6%BC%AB%E5%B7%B4%E5%A3%AB.json"
     },
     {
       "key": "csp_biubiu_OmoFun动漫",
@@ -700,7 +700,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/OmoFun%E5%8A%A8%E6%BC%AB.json"
     },
     {
       "key": "csp_xpath_jbb",
@@ -710,7 +710,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%89%A7%E7%99%BD%E7%99%BD.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%89%A7%E7%99%BD%E7%99%BD.json"
     },
     {
       "key": "csp_xpath_yanetflix",
@@ -720,7 +720,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E5%A5%88%E9%9D%9E%E9%B8%AD.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%A5%88%E9%9D%9E%E9%B8%AD.json"
     },
     {
       "key": "csp_biubiu_voflix",
@@ -730,7 +730,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/voflix.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/voflix.json"
     },
     {
       "key": "csp_biubiu_cupfox",
@@ -740,7 +740,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E8%8C%B6%E6%9D%AF%E7%8B%90.json"
     },
     {
       "key": "csp_appys_美剧虫",
@@ -750,7 +750,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "https://gitea.com/xyyx/TVBox/raw/branch/main/json/%E7%BE%8E%E5%89%A7%E8%99%AB.json"
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%BE%8E%E5%89%A7%E8%99%AB.json"
     },
     {
       "key": "9E03",
