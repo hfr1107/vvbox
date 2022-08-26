@@ -205,8 +205,7 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 0,
-      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5MTI1NTUsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.pVELLcrhOIzquIzB8NN16uu3YS_4Vn4pV40yMT6KxL4
-"
+      "ext": "eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VyIjp7IklEIjozMDExMywiQ3JlYXRlZEF0IjoiMjAyMi0wOC0xMVQxMDo1OToxNS4zMiswODowMCIsIlVwZGF0ZWRBdCI6IjIwMjItMDgtMjRUMTA6MjE6NTEuOTk0KzA4OjAwIiwiRGVsZXRlZEF0IjpudWxsLCJ1c2VyX2VtYWlsIjoiMTcyNTk4MzY0QHFxLmNvbSIsInVzZXJfbmFtZSI6IiIsInVzZXJfcHdkIjoiIiwidXNlcl9pZCI6IjBlYWViNjY5LWY3OWQtNDdhNS1iYTM2LTA2NjQ5OTJkMjY2YyIsInVzZXJfYW5zd2VyIjoiIiwibG9ja19pcyI6IkZhbHNlIiwiaXNfdHYiOiIiLCJpc19hZG1pbiI6IkZhbHNlIiwicmVnX3RpbWUiOiIyMDIyLTA4LTI0VDEwOjIxOjUxLjk5MyswODowMCIsInJlZ19rZXkiOiI3MTYxMjA4OCIsInR2X3RpbWUiOm51bGwsInR2X2tleSI6IiJ9LCJleHAiOjE2NjE5MTI1NTUsImlzcyI6IkFsZnJlZG8gTWVuZG96YSJ9.pVELLcrhOIzquIzB8NN16uu3YS_4Vn4pV40yMT6KxL4"
     },
     {
       "key": "csp_剧荒",
@@ -264,24 +263,6 @@
       "filterable": 1
     },
     {
-      "key": "csp_Nbys",
-      "name": "⛰泥巴(墙外)",
-      "type": 3,
-      "api": "csp_Nbys",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
-      "key": "If101",
-      "name": "🗾If101(墙外)",
-      "type": 3,
-      "api": "csp_If101",
-      "searchable": 1,
-      "quickSearch": 1,
-      "filterable": 1
-    },
-    {
       "key": "学堂",
       "name": "📚学习园地",
       "type": 3,
@@ -300,6 +281,16 @@
       "quickSearch": 0,
       "filterable": 1,
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%93%94%E5%93%A9%E5%A5%97%E9%A4%90.json"
+    },
+    {
+      "key": "美食",
+      "name": "🅱️美食舞蹈",
+      "type": 3,
+      "api": "csp_Bili",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 1,
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E7%BE%8E%E9%A3%9F.json"
     },
     {
       "key": "演唱会",
@@ -403,15 +394,15 @@
       "ext": "3a49cf29cf20410997247c6eb4509be9"
     },
     {
-			"key": "push_agent",
-			"name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
-			"type": 3,
-			"api": "csp_PushAgent",
-			"searchable": 0,
-			"quickSearch": 0,
-			"filterable": 0,
-			"ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
-		}, 
+      "key": "push_agent",
+      "name": "🎯推送（爱优腾/阿里云盘/磁力链接）",
+      "type": 3,
+      "api": "csp_PushAgent",
+      "searchable": 0,
+      "quickSearch": 0,
+      "filterable": 0,
+      "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
+    },
     {
       "key": "csp_Yj1211",
       "name": "📸直播合集",
@@ -574,15 +565,15 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%8E%82%E9%95%BF%E8%93%9D%E5%85%89.json"
     },
     {
-			"key": "csp_XPath_bidiys",
-			"name": "哔嘀影视",
-			"type": 3,
-			"api": "csp_XPath",
-			"searchable": 1,
-			"quickSearch": 1,
-			"filterable": 0,
-			"ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
-		},
+      "key": "csp_XPath_bidiys",
+      "name": "哔嘀影视",
+      "type": 3,
+      "api": "csp_XPath",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 0,
+      "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/json/%E5%93%94%E5%98%80%E5%BD%B1%E8%A7%86.json"
+    },
     {
       "key": "csp_xp_jLgyy",
       "name": "❄蓝光影院",
