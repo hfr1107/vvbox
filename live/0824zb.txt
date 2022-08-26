@@ -1,4 +1,4 @@
-﻿🇨🇳｜8月24日,#genre#
+🇨🇳｜8月24日,#genre#
 定期维护数据源, http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225618/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221226221/index.m3u8#http://39.134.115.163:8080/PLTV/88888910/224/3221225918/index.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://39.135.138.59:18890/PLTV/88888910/224/3221225642/index.m3u8#http://125.210.152.19:9090/live/hzgq-cctv1gq-h264.m3u8#http://39.135.138.60:18890/PLTV/88888910/224/3221225618/index.m3u8#http://171.108.239.90:8181/tsfile/live/1027_1.m3u8#http://59.44.10.113:9901/tsfile/live/1018_1.m3u8#http://39.135.49.209:6610/PLTV/88888888/224/3221227014/1.m3u8?servicetype=1#http://39.135.49.209:6610/PLTV/88888888/224/3221225829/1.m3u8?servicetype=1#http://39.135.49.209:6610/PLTV/88888888/224/3221225922/1.m3u8?servicetype=1#http://39.135.49.209:6610/PLTV/88888888/224/3221226908/1.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221225829/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221227014/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226599/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221225922/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226908/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226995/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221225812/index.m3u8?servicetype=1#http://39.135.55.105:6610/PLTV/88888888/224/3221226624/index.m3u8?servicetype=1#http://117.148.179.155/PLTV/88888888/224/3221231468/index.m3u8#http://117.148.179.155/PLTV/88888888/224/3221231471/index.m3u8#http://39.135.34.150:8080/000000001000/1000000001000021973/1.m3u8?xtkg
 
 📺｜新闻合集,#genre#
@@ -4278,7 +4278,7 @@ AOA - Like A Cat,https://15799848.s21v.faiusr.com/58/ABUIABA6GAAgtfm95QUok8Wu6AQ
 韩国歌团★152,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240151273206.mp4
 韩国歌团★153,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389031565.mp4
 
-🎎｜VIP高清秒播_0822,#genre#
+🎎｜VIP高清秒播_0826,#genre#
 日本秒播1,https://jdvv009.microclassonline.com/20220722/9vucLIJR/index.m3u8
 日本秒播2,https://jdvv009.microclassonline.com/20220627/dOoXu3t6/index.m3u8
 日本秒播3,https://jdvv009.microclassonline.com/20220710/hEddgRFa/index.m3u8
