@@ -556,7 +556,7 @@
       ]
     },
     {
-			"key": "csp_xpath_球迷",
+			"key": "csp_xpath_球迷1",
 			"name": "⚽🏀球迷1",
 			"type": 3,
 			"api": "csp_XPath",
@@ -567,7 +567,7 @@
 		}, 
 
 		{
-			"key": "csp_xpath_球迷",
+			"key": "csp_xpath_球迷2",
 			"name": "⚽🏀球迷2",
 			"type": 3,
 			"api": "csp_XPathFilter",
