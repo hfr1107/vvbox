@@ -394,6 +394,17 @@
       "ext": "4acb3ad2f2254ba1b566279f7cd98ba3"
     },
     {
+      "key":"csp_XYQBiu_短视频",
+      "name":"短视频分享(XYQ)",
+      "type":3,
+      "api":"csp_XYQBiu",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":0,
+      "jar":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/XYQBiu/XYQBiu.jar",
+      "ext":"https://gitcode.net/qq_26898231/TVBox/-/raw/main/XYQBiu/%E7%9F%AD%E8%A7%86%E9%A2%91.json"
+    },
+    {
       "key": "csp_Yj1211",
       "name": "📸直播合集",
       "type": 3,
