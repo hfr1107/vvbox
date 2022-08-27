@@ -272,7 +272,7 @@
       "filterable": 1
     },
         {
-      "key": "学堂",
+      "key": "儿童",
       "name": "🐯儿童乐园",
       "type": 3,
       "api": "csp_Bili",
@@ -282,7 +282,7 @@
       "ext": "https://gitcode.net/qq_26898231/TVBox/-/raw/main/Bili/%E5%84%BF%E7%AB%A5%E4%B9%90%E5%9B%AD.json"
     },
     {
-      "key": "学堂",
+      "key": "学习",
       "name": "📝学习园地",
       "type": 3,
       "api": "csp_Bili",
