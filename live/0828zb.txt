@@ -1882,6 +1882,18 @@ HTV4,https://livecdn.fptplay.net/sdb/htv4_hls.smil/chunklist_b2500000.m3u8
 中天新闻,http://60.251.39.247:8504/http/192.168.77.24:8081/hls/78/80/ch63max.m3u8
 台视,http://123.51.229.65:18543/http/192.168.1.9:8081/hls/72/814/ch46.m3u8
 纬来育乐,http://123.51.229.65:18541/.m3u8
+Beautiful Life TV,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/playlist.m3u8
+大愛2 (720p),https://pulltv2.wanfudaluye.com/live/tv2.m3u8
+Indigenous TV (720p),http://streamipcf.akamaized.net/live/_definst_/smil:liveabr.smil/playlist.m3u8
+大立電視 (720p),http://www.dalitv.com.tw:4568/live/dali/index.m3u8
+原住民電視 (720p),http://streamipcf.akamaized.net/live/_definst_/live_720/key_b1500.m3u8
+大愛1 (720p),https://pulltv1.wanfudaluye.com/live/tv1.m3u8
+華藏衛視 (1080p) [Not 24/7],http://118.163.88.61:1935/hwazanlivetv/live.stream/playlist.m3u8
+東森財經新聞 (1080p) [Not 24/7],http://seb.sason.top/sc/dscjxw_fhd.m3u8
+東森新聞 (1080p) [Not 24/7],http://seb.sason.top/sc/dsxw_fhd.m3u8
+華視新聞資訊 [Geo-blocked],http://seb.sason.top/sc/hsxw_fhd.m3u8
+三立新聞 (1080p) [Geo-blocked],http://seb.sason.top/sc/sllive_fhd.m3u8
+TVBS新聞 [Geo-blocked],http://seb.sason.top/sc/tvbsxw_fhd.m3u8
 
 🔁｜轮播,#genre#
 周润发影院,http://112.74.200.9:88/tv000000/m3u8.php?/migu/639526984
