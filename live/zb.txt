@@ -830,7 +830,7 @@ CCTV-17农业农村,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168256
 黑龙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8
 黑龙江卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 
-🚢｜港澳台外,#genre#
+🛥｜港澳台外,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
