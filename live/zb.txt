@@ -736,7 +736,7 @@ CCTV-17农业农村,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168256
 人间卫视,https://5ddce30eb4b55.streamlock.net/bltvhd/bltv1/chunklist_w511254805.m3u8
 南方卫视,http://39.135.138.58:18890/PLTV/88888888/224/3221226203/1653149724-1-1651284940.m3u8
 
-🚁｜卫视蓝光,#genre#
+🛩｜卫视蓝光,#genre#
 北京卫视[1920*1080],http://39.134.65.179/PLTV/88888888/224/3221225678/index.m3u8
 北京卫视[1920*1080],http://39.134.65.164/PLTV/88888888/224/3221225678/index.m3u8
 北京卫视[1920*1080],http://39.134.65.166/PLTV/88888888/224/3221225678/index.m3u8
@@ -830,7 +830,7 @@ CCTV-17农业农村,http://112.74.200.9:88/tv000000/m3u8.php?/migu/673168256
 黑龙江卫视[1920*1080],http://39.135.138.58:18890/PLTV/88888888/224/3221225736/index.m3u8
 黑龙江卫视[1920*1080],http://shbu.live.bestvcdn.com.cn:8080/live/program/live/hljwshd/4000000/mnf.m3u8
 
-🏞｜港澳台外,#genre#
+🛥｜港澳台外,#genre#
 凤凰中文,http://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,https://play-live.ifeng.com/live/06OLEGEGM4G.m3u8
 凤凰中文,http://112.102.214.193:65530/live/fhzw/index.m3u8
@@ -1073,7 +1073,7 @@ ANTV,http://antvlive.ab5c6921.cdnviet.com/antv/playlist.m3u8
 黄龙望乡台,http://gcksc.v.kcdnvip.com/gc/hlwxt_1/index.m3u8
 黄龙洗身洞,http://gcalic.v.myalicdn.com/gc/hlxsd_1/index.m3u8
 
-🛸｜记录探索,#genre#
+🚁｜记录探索,#genre#
 动物世界,http://hls.cntv.myhwcdn.cn/asp/hls/1200/0303000a/3/default/2eba7ee3659b4caf86b40d51a1752d6c/1200.m3u8
 人与自然,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/1425e1d505654cb48ba82b807b221193/1200.m3u8
 自然传奇,http://newcntv.qcloudcdn.com/asp/hls/1200/0303000a/3/default/81a1ad3a661748bfb8560c92d38204ca/1200.m3u8
