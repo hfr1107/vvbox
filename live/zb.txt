@@ -1,5 +1,5 @@
 📺｜定期维护,#genre#
-9月15日更新, http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
+9月18日更新, http://39.134.66.110/PLTV/88888888/224/3221225816/index.m3u8
 
 🌏｜央视频道,#genre#
 CCTV1,http://39.134.65.141/PLTV/88888888/224/3221225816/1.m3u8
@@ -2956,22 +2956,3 @@ BEYOND-醒你,http://em.21dtv.com/songs/60051184.mkv
 韩国太妍41,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240160716008.mp4
 韩国太妍42,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240161212784.mp4
 韩国太妍43,https://cloud.video.taobao.com//play/u/57349687/p/1/e/6/t/1/240389662042.mp4
-
-🎎｜VIP 资源_888 ,#genre#
-Unknown_1,https://jvv009.microclassonline.com/20211211/03SNz9AE/index.m3u8
-Unknown_2,https://jvv009.microclassonline.com/20220611/kMXwLGgk/index.m3u8
-Unknown_3,https://jvv009.microclassonline.com/20210905/pFnb6lao/index.m3u8
-Unknown_4,https://jvv009.microclassonline.com/20220815/6ckPEpDi/index.m3u8
-Unknown_5,https://jvv009.microclassonline.com/20220719/gNTyeRIT/index.m3u8
-Unknown_6,https://jvv009.microclassonline.com/20220627/dOoXu3t6/index.m3u8
-Unknown_7,https://jvv009.microclassonline.com/20220512/paPhMogW/index.m3u8
-Unknown_8,https://jvv009.microclassonline.com/20220907/PgvqEk7L/index.m3u8
-Unknown_9,https://jvv009.microclassonline.com/20220830/qmIOOo7P/index.m3u8
-Unknown_10,https://jvv009.microclassonline.com/20220903/nXyL8AON/index.m3u8
-Unknown_11,https://jvv009.microclassonline.com/20220901/NjbK7ReH/index.m3u8
-Unknown_12,https://jvv009.microclassonline.com/20220829/sqBjiSW5/index.m3u8
-Unknown_13,https://jvv009.microclassonline.com/20220710/t9PwvywW/index.m3u8
-Unknown_14,https://jvv009.microclassonline.com/20220810/fYO9zczi/index.m3u8
-Unknown_15,https://jvv009.microclassonline.com/20220730/NTiXCKcA/index.m3u8
-Unknown_16,https://jvv009.microclassonline.com/20220730/QfQJ0clW/index.m3u8
-Unknown_17,https://jvv009.microclassonline.com/20220909/WvqyG3Hx/index.m3u8
