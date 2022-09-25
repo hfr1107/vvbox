@@ -28,10 +28,10 @@
     // 更新相关
     "IsForceUpdate":true, //是否强制显示更新UI
     "UpdateData":{  //更新数据
-        "NewVersion":"1.0.0", //最新版本号
+        "NewVersion":"0.0.0", //最新版本号
         "ForceUpdate":true, //是否强制更新
         "UpdateDesc":       //更新描述
-           "1.测试更新", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
+           "0.测试更新", // \n\n\n所有更新记录:https://mayishidai.cn/tv/apk/%E6%9B%B4%E6%96%B0%E6%97%A5%E5%BF%97.txt
         "UpdateDownloadUrl":"https://raw.fastgit.org/hfr1107/vvbox/main/INI/HomeBOX1.0.0.apk" //更新下载地址
     }
 }
