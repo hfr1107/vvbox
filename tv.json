@@ -1349,7 +1349,7 @@
         {
           "name": "live",
           "urls": [
-            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvaGZyMTEwNy92VkJveC9tYWluL2xpdmUvemIudHh0"
+            "proxy://do=live&type=txt&ext=aHR0cHM6Ly9yYXcuZmFzdGdpdC5vcmcvaGZyMTEwNy92VkJveC9tYWluL2xpdmUvbGl2ZS50eHQ="
       // https://raw.fastgit.org/hfr1107/vVBox/main/live/zb.txt
           ]
         }
